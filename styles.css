@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#quiz-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+#score {
+    margin-top: 20px;
+    font-weight: bold;
+}
+JavaScript (script.js)
